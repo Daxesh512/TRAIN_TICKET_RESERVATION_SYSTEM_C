@@ -1,0 +1,23 @@
+ LOGIN DETAILS :
+
+username : user
+password : pass
+
+
+SORRY, THE CANCEL FUNCTION DOES NOT WORK. DUE TO SOME ERRORS WE REMOVED THE CODES.
+
+If you wish to change the password of the system 
+Scroll to the bottom and find "void login" and change the username and password!!
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/c/project/ *****
+
+
+
+#THANK YOU FOR DOWNLOADING
